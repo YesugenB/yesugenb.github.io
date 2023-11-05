@@ -20,5 +20,5 @@ My research focuses on ways to enhance a collaborative and holistic requirements
 
 ### Misc
 
-[<img alt="I presented two papers at RE'23!" src="re-2023.png">](https://twitter.com/smithcollege/status/1717164135874429187/photo/1)
+[<img alt="I presented two papers at RE'23!" src="images/re-2023.png">](https://twitter.com/smithcollege/status/1717164135874429187/photo/1)
 
