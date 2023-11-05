@@ -18,7 +18,7 @@ _I am currently applying to PhD programs._
 
 My research focuses on ways to enhance a collaborative and holistic requirements elicitation process involving a diverse set of stakeholders. I have worked with improving the comprehensibility of goal models (an extension of Tropos in BloomingLeaf) and with a DSL (SLEEC) for specifying and validating normative rules for autonomous agents.
 
-### Misc
+### Miscellaneous
 
-[<img alt="I presented two papers at RE'23!" src="images/re-2023.png">](https://twitter.com/smithcollege/status/1717164135874429187/photo/1)
+[<img src="images/re-2023.png">](https://twitter.com/smithcollege/status/1717164135874429187/photo/1 width="100" ) /> I presented two papers at RE'23 in Hannover!
 
