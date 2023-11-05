@@ -20,5 +20,6 @@ My research focuses on ways to enhance a collaborative and holistic requirements
 
 ### Miscellaneous
 
-[<img src="images/re-2023.png">](https://twitter.com/smithcollege/status/1717164135874429187/photo/1 width="100" ) /> I presented two papers at RE'23 in Hannover!
-
+ I presented two papers at RE'23 in Hannover!
+ 
+[<img src="images/re-2023.png">](https://twitter.com/smithcollege/status/1717164135874429187/photo/1 width="80" )
