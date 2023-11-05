@@ -16,7 +16,7 @@ _I am currently applying to PhD programs._
 
 ### Research 
 
-My research focuses on ways to enhance a collaborative and holistic requirements elicitation process involving a diverse set of stakeholders. I have worked with improving the comprehensibility of goal models (an extension of Tropos in BloomingLeaf) and with a DSL (SLEEC) for specifying and validating normative rules for autonomous agents.
+My research focuses on ways to enhance a collaborative and holistic requirements elicitation process involving a diverse set of stakeholders. I have worked with improving the comprehensibility of goal models (an extension of Tropos in BloomingLeaf) and with a DSL (SLEEC) for specifying and validating normative rules.
 
 ### Miscellaneous
 
