@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-baccalaureate research affiliate working with Dr. Alicia Grubb in the [Computer Science Department](http://cs.smith.edu/) at [Smith College](www.smith.edu). I also work with Dr. Marsha Chechik at the University of Toronto.
+I am a post-baccalaureate research affiliate working with Dr. Alicia Grubb in the [Computer Science Department](http://cs.smith.edu/) at [Smith College](www.smith.edu). 
 
 I completed my Bachelor's at Smith College in May 2023. My majors were in Computer Science (with Highest Honors) and Statistical and Data Sciences.
-
-_I am currently applying to PhD programs. You can find my CV [here.](https://yesugenb.github.io/YesugenBaatartogtokhCV.pdf)_
 
 ### Research 
 
