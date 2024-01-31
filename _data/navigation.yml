@@ -15,8 +15,8 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "[CV](https://yesugenb.github.io/YesugenBaatartogtokhCV.pdf)"
-  #  url: /cv/YesugenBaatartogtokhCV.pdf
+  - title: "CV"
+    url: https://yesugenb.github.io/YesugenBaatartogtokhCV.pdf
     
   #- title: "Guide"
   #  url: /markdown/
