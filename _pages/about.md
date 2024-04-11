@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-baccalaureate research affiliate working with [Dr. Alicia Grubb](https://amgrubb.github.io/) in the [Computer Science Department](http://cs.smith.edu/) at Smith College. 
+I will join UMass Amherst as a first-year PhD student this May, working with Dr. Yuriy Brun at the Laboratory for Software Engineering Research [(LASER)](https://laser.cs.umass.edu/).
+
+I am currently a post-baccalaureate research affiliate working with [Dr. Alicia Grubb](https://amgrubb.github.io/) in the [Computer Science Department](http://cs.smith.edu/) at Smith College. 
 
 I completed my Bachelor's at Smith College in May 2023. My majors were in Computer Science (with Highest Honors) and Statistical and Data Sciences.
 
