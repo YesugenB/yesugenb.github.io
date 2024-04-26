@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join UMass Amherst as a first-year PhD student this May, working with Dr. Yuriy Brun at the Laboratory for Software Engineering Research [(LASER)](https://laser.cs.umass.edu/). Currently, I am a post-baccalaureate research affiliate working with [Dr. Alicia Grubb](https://amgrubb.github.io/) in the [Computer Science Department](http://cs.smith.edu/) at Smith College. 
+I will join UMass Amherst as a first-year Ms/PhD student this May, working with Dr. Yuriy Brun at the Laboratory for Software Engineering Research [(LASER)](https://laser.cs.umass.edu/). Currently, I am a post-baccalaureate research affiliate working with [Dr. Alicia Grubb](https://amgrubb.github.io/) in the [Computer Science Department](http://cs.smith.edu/) at Smith College. 
 
 ### Research 
 
