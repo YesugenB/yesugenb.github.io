@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yesugen Baatartogtokh"
 title_separator          : "-"
 name                     : &name "Yesugen Baatartogtokh"
-description              : &description "Post-Bacc, Computer Science, Smith College"
+description              : &description "PhD Student, CICS, UMass Amherst"
 url                      : https://yesugenb.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YesugenB/yesugenb.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Yesugen Baatartogtokh"
   avatar           : "profile.png"
   bio              : "Software/Requirements Engineering"
-  location         : "Smith College"
+  location         : "UMass Amherst"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=233K35QAAAAJ"
-  email            : "ybaatartogtokh@smith.edu"
+  email            : "yesugen@umass.edu"
   researchgate     : "https://www.researchgate.net/profile/Yesugen_Baatartogtokh" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
