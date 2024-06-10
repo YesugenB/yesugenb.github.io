@@ -12,7 +12,7 @@ I am a first-year Ms/PhD student at the University of Massachusetts Amherst, wor
 
 ### Research 
 
-My research focuses on ways to enhance a collaborative and holistic requirements elicitation process involving a diverse set of stakeholders. I have worked with improving the comprehensibility of goal models (an extension of Tropos in BloomingLeaf) and with a DSL (SLEEC) for specifying and validating normative rules.
+My prior research focused on ways to enhance a collaborative and holistic requirements elicitation process involving a diverse set of stakeholders. I have worked with improving the comprehensibility of goal models (an extension of Tropos in BloomingLeaf) and with a DSL (SLEEC) for specifying and validating normative rules.
 
 ### Miscellaneous
 
