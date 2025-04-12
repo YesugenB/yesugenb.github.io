@@ -16,7 +16,7 @@ My prior research focused on ways to enhance a collaborative and holistic requir
 
 ### Miscellaneous
 
-I will present my paper, [Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication](https://yesugenb.github.io/icse25-paper.pdf) at ICSE'25 this April! 
+I will present my paper, [Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication](https://yesugenb.github.io/icse25-paper.pdf), at ICSE'25 this April! 
  
  I presented two papers at RE'23 in Hannover! Picture courtesy of Smith [Twitter](https://twitter.com/smithcollege/status/1717164135874429187/photo/1)
  
