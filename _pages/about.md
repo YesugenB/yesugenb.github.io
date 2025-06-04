@@ -20,7 +20,7 @@ My prior research focused on ways to enhance a collaborative and holistic requir
 
 - I presented [Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication](https://yesugenb.github.io/icse25-paper.pdf), which won a Distinguished Paper Award at ICSE'25 in Ottawa. 
  
-- I presented two papers at RE'23 in Hannover!
+- I presented two papers, [An Experiment on the Effects of Using Color to Visualize Requirements Analysis Tasks](https://yesugenb.github.io/An_Experiment_on_the_Effects_of_Using_Color_to_Visualize_Requirements_Analysis_Tasks.pdf) and [Visualizations for User-supported State Space Exploration of Goal Models](https://yesugenb.github.io/Visualizations_for_User-supported_State_Space_Exploration_of_Goal_Models.pdf), at RE'23 in Hannover!
 
 [<img src="images/icse-25.jpg"  width="400" >]([https://x.com/YuriyBrun/status/1917948672022614202/photo/2)
 [<img src="images/re-2023.png"  width="400" >](https://twitter.com/smithcollege/status/1717164135874429187/photo/1)
