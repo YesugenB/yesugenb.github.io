@@ -2,7 +2,9 @@
 title: "Visualizations for User-supported State Space Exploration of Requirements Models"
 collection: publications
 permalink: /publications/2023-Visualizations-for-User-supported-State-Space-Exploration-of-Requirements-Models
-excerpt: Yesugen Baatartogtokh, Irene Foster, Alicia M. Grubb. Proceedings of the IEEE 31st International Requirements Engineering Conference **(RE'23)**.
+excerpt: |
+ *Proceedings of the IEEE 31st International Requirements Engineering Conference (RE) 2023*.  
+ Yesugen Baatartogtokh, Irene Foster, Alicia M. Grubb
 date: 2023-09-01
 venue: 'Proceedings of the IEEE 31th International Requirements Engineering Conference (RE)'
 citation: ' Yesugen Baatartogtokh,  Irene Foster,  Alicia M. Grubb, "Visualizations for User-supported State Space Exploration of Requirements Models." Proceedings of the IEEE 31th International Requirements Engineering Conference (RE), 2023.'
