@@ -12,6 +12,8 @@ I am a first-year Ms/PhD student at the University of Massachusetts Amherst, wor
 
 ### Research 
 
+I am currently investigating how insights from users and industry professionals can guide the development of technical and design requirements that better support youth safety in online social spaces. This work aims to inform future tools and practices for building safer, more supportive digital platforms.
+
 My prior research focused on ways to enhance a collaborative and holistic requirements elicitation process involving a diverse set of stakeholders. I have worked with improving the comprehensibility of goal models (an extension of Tropos in BloomingLeaf) and with a DSL (SLEEC) for specifying and validating normative rules.
 
 ### News
