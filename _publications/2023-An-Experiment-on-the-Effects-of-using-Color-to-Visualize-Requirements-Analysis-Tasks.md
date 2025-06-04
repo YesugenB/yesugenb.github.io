@@ -3,7 +3,7 @@ title: "An Experiment on the Effects of using Color to Visualize Requirements An
 collection: publications
 permalink: /publication/2023-An-Experiment-on-the-Effects-of-using-Color-to-Visualize-Requirements-Analysis-Tasks
 excerpt: |
-    *Proceedings of the IEEE 31st International Requirements Engineering Conference (RE) 2023*
+    *Proceedings of the IEEE 31st International Requirements Engineering Conference (RE) 2023*  
     Yesugen Baatartogtokh, Irene Foster, Alicia M. Grubb
 date: 2023-10-01
 venue: 'Proceedings of the IEEE 31st International Requirements Engineering Conference (RE)'
