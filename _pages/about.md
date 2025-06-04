@@ -22,5 +22,5 @@ My prior research focused on ways to enhance a collaborative and holistic requir
  
 - I presented two papers at RE'23 in Hannover!
 
-[<img src="images/icse-25.png"  width="400" >]([https://x.com/YuriyBrun/status/1917948672022614202/photo/2)
+[<img src="images/icse-25.jpg"  width="400" >]([https://x.com/YuriyBrun/status/1917948672022614202/photo/2)
 [<img src="images/re-2023.png"  width="400" >](https://twitter.com/smithcollege/status/1717164135874429187/photo/1)
