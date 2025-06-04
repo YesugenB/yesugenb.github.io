@@ -2,7 +2,8 @@
 title: "Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication"
 collection: publications
 permalink: /publication/2025-Exploring-the-Robustness-of-the-Effect-of-EVO-on-Intention-Valuation-through-Replication
-excerpt: Yesugen Baatartogtokh, Kaitlyn Cook, Alicia Grubb, Proceedings of the 47th International Conference on Software Engineering **(ICSE'25)**, 2025. **ACM SIGSOFT Distinguished Paper Award.**
+excerpt: *Proceedings of the 47th International Conference on Software Engineering (ICSE), 2025*. **ACM SIGSOFT Distinguished Paper Award.**
+<br> Yesugen Baatartogtokh, Kaitlyn Cook, Alicia Grubb, 
 date: 2025-4-01
 venue: 'Proceedings of the 47th International Conference on Software Engineering (ICSE 2025)'
 citation: 'Yesugen Baatartogtokh, Kaitlyn Cook, Alicia Grubb, "Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication." Proceedings of the 47th International Conference on Software Engineering (ICSE), 2025.'
