@@ -18,9 +18,9 @@ My prior research focused on ways to enhance a collaborative and holistic requir
 
 ### News
 
-- I presented [Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication](https://yesugenb.github.io/icse25-paper.pdf), which won a Distinguished Paper Award at ICSE'23 in Ottawa. Picture courtesy of Yuriy Brun's [BlueSky](https://bsky.app/profile/yuriybrun.bsky.social/post/3lo4j7y2exc2i)
+- I presented [Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication](https://yesugenb.github.io/icse25-paper.pdf), which won a Distinguished Paper Award at ICSE'23 in Ottawa. 
  
-- I presented two papers at RE'23 in Hannover! Picture courtesy of Smith [Twitter](https://twitter.com/smithcollege/status/1717164135874429187/photo/1)
+- I presented two papers at RE'23 in Hannover!
 
 [<img src="images/re-2023.png"  width="400" >]([https://bsky.app/profile/yuriybrun.bsky.social/post/3lo4j7y2exc2i](https://x.com/YuriyBrun/status/1917948672022614202/photo/2))
 [<img src="images/re-2023.png"  width="400" >](https://twitter.com/smithcollege/status/1717164135874429187/photo/1)
