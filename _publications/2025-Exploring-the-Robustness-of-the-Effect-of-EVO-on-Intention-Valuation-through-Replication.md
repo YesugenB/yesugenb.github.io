@@ -9,7 +9,7 @@ excerpt: |
 date: 2025-4-01
 venue: 'Proceedings of the 47th International Conference on Software Engineering (ICSE 2025)'
 citation: 'Yesugen Baatartogtokh, Kaitlyn Cook, Alicia Grubb, "Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication." Proceedings of the 47th International Conference on Software Engineering (ICSE), 2025.'
-layout: publication
+layout: archive
 ---
 Yesugen Baatartogtokh, Kaitlyn Cook, Alicia Grubb
 
