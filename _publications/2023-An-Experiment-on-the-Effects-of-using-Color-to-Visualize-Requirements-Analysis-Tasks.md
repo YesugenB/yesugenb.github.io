@@ -2,7 +2,9 @@
 title: "An Experiment on the Effects of using Color to Visualize Requirements Analysis Tasks"
 collection: publications
 permalink: /publication/2023-An-Experiment-on-the-Effects-of-using-Color-to-Visualize-Requirements-Analysis-Tasks
-excerpt: Yesugen Baatartogtokh, Irene Foster, Alicia M. Grubb. Proceedings of the IEEE 31st International Requirements Engineering Conference **(RE'23)**.
+excerpt: |
+    *Proceedings of the IEEE 31st International Requirements Engineering Conference (RE) 2023*
+    Yesugen Baatartogtokh, Irene Foster, Alicia M. Grubb
 date: 2023-10-01
 venue: 'Proceedings of the IEEE 31st International Requirements Engineering Conference (RE)'
 citation: ' Yesugen Baatartogtokh,  Irene Foster,  Alicia M. Grubb, "An Experiment on the Effects of using Color to Visualize Requirements Analysis Tasks." Proceedings of the IEEE 31st International Requirements Engineering Conference (RE), 2023.'
