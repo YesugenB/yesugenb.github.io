@@ -2,7 +2,7 @@
 title: "Analyzing and Debugging Normative Requirements via Satisfiability Checking"
 collection: publications
 permalink: /publication/2024-Analyzing-and-Debugging-Normative-Requirements-via-Satisfiability-Checking
-excerpt: Nick Feng, Lina Marsso, Sinem Getir Yaman, **Yesugen Baatartogtokh**, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik. ACM SIGSOFT Distinguished Paper Award.
+excerpt: Nick Feng, Lina Marsso, Sinem Getir Yaman, **Yesugen Baatartogtokh**, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik. **ACM SIGSOFT Distinguished Paper Award.**
 date: 2024-4-01
 venue: 'Proceedings of the 46th International Conference on Software Engineering (ICSE 2024)'
 citation: 'Nick Feng, Lina Marsso, Sinem Getir Yaman, Yesugen Baatartogtokh, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik, "Analyzing and Debugging Normative Requirements via Satisfiability Checking." Proceedings of the 46th International Conference on Software Engineering (ICSE), 2024.'
