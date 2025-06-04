@@ -1,4 +1,4 @@
-ho---
+---
 title: "Visualizations for User-supported State Space Exploration of Requirements Models"
 collection: publications
 permalink: /publications/2023-Visualizations-for-User-supported-State-Space-Exploration-of-Requirements-Models
