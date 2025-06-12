@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-Visualizations-and-Filtering-to-Help-People-Find-their-Path
 excerpt: |
   *Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGSCE) 2023*  
-  Yesugen Baatartogtokh, Irene Foster
+  **Yesugen Baatartogtokh**, Irene Foster
 date: 2023-03-01
 venue: 'Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGSCE)'
 citation: ' Yesugen Baatartogtokh,  Irene Foster, "Visualizations and Filtering to Help People Find their Path." Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGSCE), 2023.'
