@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/REJ-2024-A-Splash-Of-Color
 excerpt: |
   *Requirements Engineering Journal (REJ), 2024*  
-  Yesugen Baatartogtokh, Irene Foster, and Alicia Grubb
+  **Yesugen Baatartogtokh**, Irene Foster, and Alicia Grubb
 date: 2025-4-01
 venue: 'Requirements Engineering Journal (REJ), 2024'
 citation: 'Yesugen Baatartogtokh, Irene Foster, Alicia Grubb, A splash of color: a dual dive into the efects of EVO on decision‑making with goal models. In Requirements Engineering Journal (REJ), 2024.'
