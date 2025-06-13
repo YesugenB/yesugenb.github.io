@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at the University of Massachusetts Amherst, working with Dr. Yuriy Brun at the Laboratory for Software Engineering Research [(LASER)](https://laser.cs.umass.edu/). Previously, I was a post-baccalaureate research affiliate working with [Dr. Alicia Grubb](https://amgrubb.github.io/) in the [Computer Science Department](http://cs.smith.edu/) at Smith College.  
+I am a PhD student at the University of Massachusetts Amherst, working with Dr. Yuriy Brun at the Laboratory for Software Engineering Research [(LASER)](https://laser.cs.umass.edu/). Previously, I was a post-baccalaureate research affiliate working with [Dr. Alicia Grubb](https://amgrubb.github.io/) in the [Computer Science Department](http://cs.smith.edu/) at Smith College.  
 
 I am currently investigating how insights from users and industry professionals can guide the development of technical and design requirements that better support youth safety in online social spaces. This work aims to inform future tools and practices for building safer, more supportive digital platforms.
 
