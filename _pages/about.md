@@ -18,6 +18,8 @@ Outside of my PhD, I enjoy reading, writing poetry and prose, spending time outd
 
 ### News 
 
+- I am attending [TrusCon 2025](https://www.trustcon.net/event/0f932abb-fad0-4e42-a1b7-7563f6123e41/agenda) in San Francisco!
+
 - I presented [Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication](https://yesugenb.github.io/icse25-paper.pdf), which won a Distinguished Paper Award at ICSE'25 in Ottawa. 
  
 - I presented two papers, [An Experiment on the Effects of Using Color to Visualize Requirements Analysis Tasks](https://yesugenb.github.io/An_Experiment_on_the_Effects_of_Using_Color_to_Visualize_Requirements_Analysis_Tasks.pdf) and [Visualizations for User-supported State Space Exploration of Goal Models](https://yesugenb.github.io/Visualizations_for_User-supported_State_Space_Exploration_of_Goal_Models.pdf), at RE'23 in Hannover!
