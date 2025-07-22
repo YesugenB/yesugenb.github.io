@@ -18,7 +18,7 @@ Outside of my PhD, I enjoy reading, writing poetry and prose, spending time outd
 
 ### News 
 
-- I am attending [TrusCon 2025](https://www.trustcon.net/event/0f932abb-fad0-4e42-a1b7-7563f6123e41/agenda) in San Francisco!
+- I am attending [TrustCon 2025](https://www.trustcon.net/event/0f932abb-fad0-4e42-a1b7-7563f6123e41/agenda) in San Francisco!
 
 - I presented [Exploring the Robustness of the Effect of EVO on Intention Valuation through Replication](https://yesugenb.github.io/icse25-paper.pdf), which won a Distinguished Paper Award at ICSE'25 in Ottawa. 
  
